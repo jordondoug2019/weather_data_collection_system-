@@ -1,4 +1,4 @@
-# weather_data_collection_system
+# Weather_Data_Collection_System
 
 ### **Weather Data Collection System- Day 1 \#30DayDevOpsChallenege**
 

@@ -37,8 +37,8 @@ Below are the steps taken and their importance:
 ---
 
 ### **C. SYSTEM DESIGN DIAGRAM**
+![Weather-Collections-Systems (1)](https://github.com/user-attachments/assets/24ee687d-de00-4b28-9e5d-d479e1c102ab)
 
-![Weather-Collections-Systems](https://github.com/user-attachments/assets/05e0ab25-1787-4dbb-b10c-bc0cdb0647f7)
 
 ---
 
